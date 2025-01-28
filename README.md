@@ -6,7 +6,7 @@ A simple Laravel application for managing blog posts.
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/bitue/laravel-task1.git
    cd BlogAPI
 composer install
 DB_CONNECTION=sqlite
